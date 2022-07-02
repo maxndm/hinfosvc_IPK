@@ -1,5 +1,7 @@
 # Hinfosvc - Server v jazyce C
 
+Hodnocení: 19/20
+
 Program poskytující informace o počítači, na kterém je spuštěný.
 
 ## Použití
